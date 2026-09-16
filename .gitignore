@@ -1,0 +1,9 @@
+# .NET Core
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+.vs/
+*.userprefs
+*.DS_Store
+appsettings.Development.json
